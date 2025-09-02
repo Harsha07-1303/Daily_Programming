@@ -1,0 +1,6 @@
+class Hello{
+    public static void main(String[] args) {
+        System.out.println("Jai Shree Ram");
+        System.out.println("Hello all,\n I am Harsha V starting daily coding from September 1. and i hope it continues till i land on my dream job.\n Thank You."); 
+    }
+}
